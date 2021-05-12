@@ -1,0 +1,18 @@
+.App {
+  .btns {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    width: 25vw;
+    button {
+      font-size: 1.2rem;
+      padding: 5px 5px;
+    }
+
+    .done {
+      background: #645df6;
+      color: white;
+    }
+  }
+}

@@ -1,0 +1,48 @@
+th,
+td {
+  text-align: center;
+  padding: 10px;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+
+.action-btn {
+  background-color: #645df6;
+  padding: 5px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  pointer-events: visible;
+}
+
+#event {
+  pointer-events: none;
+}
+
+thead {
+  background-color: #eee;
+}
+
+tbody {
+  tr {
+    td {
+      border-bottom: 1px solid #eee;
+    }
+  }
+}
+
+.profile-section {
+  background-color: white;
+  box-shadow: -5px 10px 36px -1px rgba(97, 97, 97, 0.2);
+  border-radius: 10px;
+  width: fit-content;
+  float: right;
+  margin: 20px;
+  overflow: hidden;
+  // z-index: 10;
+}
+
+table {
+  width: 70vw;
+}

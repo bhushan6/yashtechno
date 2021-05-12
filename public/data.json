@@ -1,0 +1,190 @@
+[
+    {
+        "name" : "John Smith",
+        "designation" : "Senior UI Specialist",
+        "technologies" : [
+            "XD",
+            "figma"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 2,
+        "location" : [
+            "indore",
+            "mumbai"
+        ],
+        "open to relocate" : [
+            "indore"
+        ]
+    },
+
+    {
+        "name" : "Mark Miller",
+        "designation" : "UI Specialist",
+        "technologies" : [
+            "photoshop",
+            "figma"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 5,
+        "location" : [
+            "indore"
+        ],
+        "open to relocate" : []
+    },
+
+    {
+        "name" : "Bhushan Wagh",
+        "designation" : "Senior UI Specialist",
+        "technologies" : [
+            "XD",
+            "photoshop"
+        ],
+        "skills" : [
+            "UX",
+            "UI"
+        ],
+        "total experience" : 2,
+        "location" : [
+            "indore",
+            "delhi"
+        ],
+        "open to relocate" : [
+            "indore",
+            "pune"
+        ]
+    },
+    {
+        "name" : "John Smith",
+        "designation" : "Senior UI Specialist",
+        "technologies" : [
+            "XD",
+            "figma"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 2,
+        "location" : [
+            "indore",
+            "mumbai"
+        ],
+        "open to relocate" : [
+            "indore"
+        ]
+    },
+
+    {
+        "name" : "Mark",
+        "designation" : "UI Specialist",
+        "technologies" : [
+            "illustrator"
+        ],
+        "skills" : [
+            "UX",
+            "UI"
+        ],
+        "total experience" : 5,
+        "location" : [
+            "pune"
+        ],
+        "open to relocate" : []
+    },
+
+    {
+        "name" : "Bhushan",
+        "designation" : "Senior UI Specialist",
+        "technologies" : [
+            "sketch"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 2,
+        "location" : [
+            "indore",
+            "mumbai"
+        ],
+        "open to relocate" : [
+            "indore",
+            "pune"
+        ]
+    },
+    {
+        "name" : "Bhushan",
+        "designation" : "Senior UI Specialist",
+        "technologies" : [
+            "sketch"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 2,
+        "location" : [
+            "indore",
+            "mumbai"
+        ],
+        "open to relocate" : [
+            "indore",
+            "pune"
+        ]
+    },
+    {
+        "name" : "John Smith",
+        "designation" : "Senior UI Specialist",
+        "technologies" : [
+            "XD",
+            "figma"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 2,
+        "location" : [
+            "indore",
+            "mumbai"
+        ],
+        "open to relocate" : [
+            "indore"
+        ]
+    },
+
+    {
+        "name" : "Mark Miller",
+        "designation" : "UI Specialist",
+        "technologies" : [
+            "photoshop",
+            "figma"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 5,
+        "location" : [
+            "indore"
+        ],
+        "open to relocate" : []
+    },
+    {
+        "name" : "John Smith",
+        "designation" : "Senior UI Specialist",
+        "technologies" : [
+            "XD",
+            "figma"
+        ],
+        "skills" : [
+            "UI"
+        ],
+        "total experience" : 2,
+        "location" : [
+            "indore",
+            "mumbai"
+        ],
+        "open to relocate" : [
+            "indore"
+        ]
+    }
+]
